@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "XI‘AN"
-title                    : "Chen"
+title                    : "Xuanyan Chen"
 title_separator          : "-"
 name                     : &name "陈炫言"
 description              : &description "personal description"
-url                      : https://chenxuanyanxidian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://chenxuanyanxidian.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chenxuanyanxidian/chenxuanyanxidian.github.io"
 
@@ -26,8 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "中国航天-工程师-自然语言处理"
   location         : "重庆"
-  employer         : "中国航天-北京计算机技术及应用研究所"
-  uri              : https://chenxuanyanxidian.github.io
+  employer         : "北京计算机技术及应用研究所"
+  uri              : "https://chenxuanyanxidian.github.io"
   email            : "805615347@qq.com" 
 
   # Academic websites
