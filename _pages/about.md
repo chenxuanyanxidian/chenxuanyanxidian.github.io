@@ -61,12 +61,11 @@ Work Experence ：TCL工业研究院
 
 Project Experience
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. 专利撰写 ，手势识别，信息过滤，智能翻译.
+1. 数据清洗 ，配合公司实际智能语音系统，清洗错误数据 ，提升模型训练效果.
+1. 模型迁移 ，Transformer、 BERT， BiLSTM+CRF ，NER精度提升.
+1. 论文研究 ，论文讲解 ，AIGC，BERT，诗歌自动生成.
+1. 实际应用 ，TCL 智能语音识别精度提升.
 
 Site-wide configuration
 ------
