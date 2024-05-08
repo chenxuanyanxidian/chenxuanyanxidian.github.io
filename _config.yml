@@ -8,12 +8,12 @@
 
 # Basic Site Settings
 locale                   : "XI‘AN"
-title                    : "Xuanyan Chen"
+title                    : "陈炫言"
 title_separator          : "-"
 name                     : "陈炫言"
-description              : "personal description"
+description              : "123456"
 url                      : "https://chenxuanyanxidian.github.io" 
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" 
 repository               : "chenxuanyanxidian/chenxuanyanxidian.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -22,8 +22,8 @@ repository               : "chenxuanyanxidian/chenxuanyanxidian.github.io"
 author:
   # Biographic information
   avatar           : "671711208300_.pic_hd.jpg"
-  name             : "陈炫言"
-  pronouns         : "Chen"  
+  name             : "Xuanyan Che"
+  pronouns         : ""  
   bio              : "中国航天-工程师-自然语言处理"
   location         : " 西安"
   employer         : "北京计算机技术及应用研究所"
