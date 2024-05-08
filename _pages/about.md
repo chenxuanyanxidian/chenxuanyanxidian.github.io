@@ -67,9 +67,16 @@ Project Experience
 1. 论文研究 ，论文讲解 ，AIGC，BERT，诗歌自动生成.
 1. 实际应用 ，TCL 智能语音识别精度提升.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Project Experience
+======
+  国家科研课题-重点研发计划402课题2-基于图神经网络推荐系统（课题负责人，2022-至今）-金融犯罪检察办案知识服务技术.
+  国家科研课题-重点研发计划402课题5-卷宗数据完整性评估系统（课题负责人，2022-至今）-金融犯罪的知识服务研究.
+  国家最高检察院深化设计项目（能力中心6人小组负责人 ，2023/02-2024/05)-完成最高检察院需求方案 ，技术方案整合，标书撰写，完成投标.
+  陕西省检察文书要素提取系统（已部署陕西省检）-2022；
+  自动驾驶量产自动泊车项目-库位检测算法融合（应用于量产测爱驰U5，自动泊车）-2021；
+  Around View Monitor环视全景影像（负责人，竞赛）-2020；
+  NER-TCL智能语音（负责人，提升模型识别精度）-2019；
+  AIGC-诗歌自动生成（负责人 ，科研课题）-2019；
 
 Create content & metadata
 ------
