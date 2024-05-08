@@ -1,12 +1,8 @@
 ---
-title: "Paper Title Number 2"
-collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+title: "一种信息过滤方法、装置及终端设备"
+collection: CN201910614219.3
+excerpt: '第一作者'
+date: 2021-01-08
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+本申请适用于数据处理技术领域，提供了一种信息过滤方法、装置及终端设备，所述方法包括：获取待处理信息，所述待处理信息至少包括两种数据类型的信息：识别所述待处理信息包括的数据类型，将所述待处理信息中不同数据类型的信息输入神经网络组中对应的神经网络中进行处理，得到所述待处理信息中不同数据类型的信息的标签；过滤所述待处理信息中标签为预设过滤标签的信息。本申请可以解决现有的信息过滤方法只能过滤单一类型的数据，过滤效果不佳的问题。
