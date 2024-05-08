@@ -1,12 +1,8 @@
 ---
-title: "Paper Title Number 3"
+title: "国家发明专利："手势识别方法、装置、终端设备及计算机可读存储介质”CN201811646013.0"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: '第一作者'
+date: 2018-12-29
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+本申请属于计算机和信息技术领域，提供一种手势识别方法，包括采集超声波图像信息与热成像图像信息；将采集的所述超声波图像信息及所述热成像图像信息输入至手势识别模型进行处理，获得所述手势识别模型输出的预测图像；判断预先存储的手势图像中是否存在与所述预测图像匹配的目标手势图像；预先存储的手势图像中存在与所述预测图像匹配的目标手势图像，则获取与所述目标手势图像对应的控制指令，并执行所述控制指令。采用上述方法将超声波技术、热成像技术输入到手势识别模型进行进行处二理，将各自缺点相互弥补，平衡设备技术本身的缺陷，提升了识别速度、识别精度和设备的健壮性。
