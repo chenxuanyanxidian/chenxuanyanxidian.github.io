@@ -3,6 +3,8 @@ title: "国家发明专利：一种基于图神经网络的司法文书案情要
 collection: CN115017144 A
 excerpt: '第三作者'
 date: 2022-05-30
+paperurl: '[https://xueshu.baidu.com/usercenter/paper/show?paperid=1j250cc0a45k0m30101y0p50um019624&site=xueshu_se&hitarticle=1](https://xueshu.baidu.com/usercenter/paper/show?paperid=1m7t0en09q7p0gc08x3p0c100g554245&site=xueshu_se&hitarticle=1)'
+citation: '白雄文,惠欣恒,陈炫言,et al.一种基于图神经网络的司法文书案情要素实体识别方法:CN202210598184.0[P].CN202210598184.0[2024-05-08].'
 ---
 
 本发明涉及一种基于图神经网络的司法文书案情要素实体识别方法，属于自然语言处理及自然语言理解技术领域。本发明根据文书类型、案由罪名选择对应的规则模板；对文书数据清洗，去除多余空行以及非法字符，完成半角全角符号转换；使用模板对检务文书进行段落划分；对包含案情的审理查明段落构建多路径有向无环图结构，输入图神经网络学习节点表示；将图神经网络的各节点依次输入基于注意力机制的神经网络和条件随机场进行识别结果的序列次序校对；对提取的识别结果按照所需格式生成结构化数据，提高办公效率，促进检务工作高质量发展。
