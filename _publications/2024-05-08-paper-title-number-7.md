@@ -1,6 +1,6 @@
 ---
 title: "国家发明专利：一种基于图神经网络的司法文书案情要素实体识别方法 CN115017144 A"
-collection: publications
+collection: CN115017144 A
 excerpt: '第三作者'
 date: 2022-05-30
 ---
