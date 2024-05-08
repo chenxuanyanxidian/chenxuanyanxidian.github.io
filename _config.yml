@@ -22,10 +22,10 @@ repository               : "chenxuanyanxidian/chenxuanyanxidian.github.io"
 author:
   # Biographic information
   avatar           : "671711208300_.pic_hd.jpg"
-  name             : "Xuanyan Chen"
+  name             : "陈炫言"
   pronouns         : "Chen"  
   bio              : "中国航天-工程师-自然语言处理"
-  location         : "西安"
+  location         : " 西安"
   employer         : "北京计算机技术及应用研究所"
   uri              : "https://chenxuanyanxidian.github.io"
   email            : "805615347@qq.com" 
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "chenxuanyanxidian.github"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
