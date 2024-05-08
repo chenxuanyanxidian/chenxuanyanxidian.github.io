@@ -3,7 +3,7 @@ title: "国家发明专利：一种基于图神经网络的司法文书案情要
 collection: CN115017144 A
 excerpt: '第三作者'
 date: 2022-05-30
-paperurl: '[https://xueshu.baidu.com/usercenter/paper/show?paperid=1j250cc0a45k0m30101y0p50um019624&site=xueshu_se&hitarticle=1](https://xueshu.baidu.com/usercenter/paper/show?paperid=1m7t0en09q7p0gc08x3p0c100g554245&site=xueshu_se&hitarticle=1)'
+paperurl: 'https://xueshu.baidu.com/usercenter/paper/show?paperid=1m7t0en09q7p0gc08x3p0c100g554245&site=xueshu_se&hitarticle=1'
 citation: '白雄文,惠欣恒,陈炫言,et al.一种基于图神经网络的司法文书案情要素实体识别方法:CN202210598184.0[P].CN202210598184.0[2024-05-08].'
 ---
 
