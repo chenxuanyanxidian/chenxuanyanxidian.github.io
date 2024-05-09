@@ -24,8 +24,8 @@ author:
   avatar           : "671711208300_.pic_hd.jpg"
   name             : "Xuanyan Che"
   birth            : "1995"  
-  bio              : "中国航天-工程师-自然语言处理"
-  location         : " 西安"
+  bio              : "中国航天"
+  location         : "西安"
   employer         : "北京计算机技术及应用研究所"
   uri              : "https://chenxuanyanxidian.github.io"
   email            : "805615347@qq.com" 
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   google-email     : "chenxuanyan095@gmail.com"
   impactstory      : # URL
-  #orcid            : "https://chenxuanyanxidian.github.io"
+  orcid            : "18829088392"
   phone            : "18829088392"
   #researchgate     : # URL
 
