@@ -74,7 +74,7 @@ Project Experience
 * NER-TCL智能语音（负责人，提升模型识别精度）-2019.
 * AIGC-诗歌自动生成（负责人 ，科研课题）-2019.
   
-publication
+Publication
 ======
 * 【北大核心】（一作）《计算机工程与设计》——《面向司法文书的抽取- 生成式自动摘要模型》
 * 【发明专利】（一作）"手势识别方法、装置、终端设备及计算机可读存储介质”CN201811646013.0
@@ -85,4 +85,11 @@ publication
 * 【发明专利】（一作）"基于变体注意力及层次结构的业务文书信息抽取方法", CN202210566712.4
 * 【发明专利】（三作）“一种基于图神经网络的司法文书案情要素实体识别方法”CN115017144 A
 *  More paper and patent details on the next page...
+  
+Awards and Honors 
+======
+* 西安电子科技大学优秀研究生 2020年
+* IBM Student Innovation Laboratory Programming Award 2018年
+* 爱驰汽车集团专利之星 2021年
+* 爱驰汽车集团建模竞赛荣誉奖（二等奖）2020年
 
