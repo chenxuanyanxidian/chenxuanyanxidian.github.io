@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "317.jpg"
   name             : "Xuanyan Che"
-  birth            : "1995"  
+  message          : "18829088392"  
   bio              : "中国航天"
   location         : "西安"
   employer         : "北京计算机技术及应用研究所"
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   google-email     : "chenxuanyan095@gmail.com"
   impactstory      : # URL
-  orcid            : "18829088392"
+  #orcid            : "18829088392"
   phone            : "18829088392"
   #researchgate     : # URL
 
